@@ -1,3 +1,4 @@
+[русскоязычная версия](https://github.com/OOjeser/CV/blob/main/CV_ru.md)
 # Sergey Gavrilenko
 
 | ![my photo](https://sun9-70.userapi.com/impg/Si16oV0MvNY93ZXXokz6v32pJsgEbALtZIabkw/ktI0aFFdz6w.jpg?size=200x267&quality=95&sign=47fa93534137ce8bc7cb5f59c47ffeed&c_uniq_tag=zYpyc91XVVh7vN60_uzvXuoSc0hofU1kIRm7iaLEClk&type=album) | name: Sergey <br/> surname: Gavrilenko <br/> patronymic: Konstantinovich <br/> age: 20 y.o. <br/> residence: Russia, Bashkortostan Republic, Ufa <br/> Software developer |
