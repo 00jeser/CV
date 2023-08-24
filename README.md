@@ -24,14 +24,22 @@ Languages I know:
 # Achievements and Education
 | Achievement | Description |
 | :---: | :--- |
-| Ufa University of Sciences and Technologies<br/>(Ufa State Aviation-Technology University) | |
-| Yandex.Lyceum | |
-| Hackathon "Uralsib: AI in banking" | |
-| Science | |
+| Ufa University of Sciences and Technologies<br/>(Ufa State Aviation-Technology University) | It is my university, I entered UGATU, then it merged with BSU. I am studying in the specialty information systems and technologies |
+| Yandex.Lyceum | I took two-year Python courses from Yandex |
+| Hackathons | At the moment, only one: "Uralsib: AI in banking" |
+| Science | while studying at the university, I am actively engaged in science |
 
 # My Valuable Projects
 
-| Project | Description | Screenshots |
-| --- | --- | --- |
-| | | |
+| Project | Description |
+| --- | --- |
+| [3DMineTools](https://github.com/OOjeser/3DMineTools) | Applocation (WPF, C#) that voxilizing 3d model and export to Minecraft |
+| [LearnCard](https://github.com/OOjeser/LearnCard) | Mobile app (MAUI, C#) that can halp you to learn something using cards |
+| [NerglishTranslator](https://github.com/OOjeser/NerglishTranslator/tree/3246b4f63fcc08381cd9204727cd443b71130568) | Translator to language of Murloc's from Warcraft (ASP.NET) |
+| [DnDStoryWriterHalper](https://github.com/OOjeser/DnDStoryWriterHalper) | I tried to write application (WPF, C#) that help you to write storyline for DnD game. This application looks like agregator of different types of notes |
+| [VKTok](https://github.com/OOjeser/VKTok) | Desktop application (UWP, C#) in tik-tok-stile that show user him "for you" feed from VK.com |
+| [PornTok](https://github.com/OOjeser/PornTokF) | Mobile application (MAUI, C#) in tik-tok-stile that show user content from rule34.xxx |
+| [WPF-WebPConverter](https://github.com/OOjeser/WPF-WebPConverter) | Application (WPF, C#) that add UI to console app from google that converting jpg or png to webp |
+| [AllGameLauncher](https://github.com/OOjeser/AllGameLauncher-2.0) | Application (UWP, C#) that handle starting games on your PC |
+
 
