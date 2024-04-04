@@ -32,11 +32,11 @@
 
 | Проект | Описание |
 | --- | --- |
-| [3DMineTools](https://github.com/OOjeser/3DMineTools) | Приложение (WPF, C#), которое вокселизирует 3D-модели и экспортирует их в Minecraft |
-| [LearnCard](https://github.com/OOjeser/LearnCard) | Мобильное приложение (MAUI, C#), которое помогает изучать что-либо с помощью карточек |
-| [NerglishTranslator](https://github.com/OOjeser/NerglishTranslator/tree/3246b4f63fcc08381cd9204727cd443b71130568) | Переводчик на язык Мурлоков из Warcraft (ASP.NET) |
-| [DnDStoryWriterHalper](https://github.com/OOjeser/DnDStoryWriterHalper) | Я попытался создать приложение (WPF, C#), которое помогает писать сюжет для игры DnD. Это приложение выглядит как агрегатор разных типов заметок |
-| [VKTok](https://github.com/OOjeser/VKTok) | Приложение для ПК (UWP, C#) в стиле TikTok, которое показывает пользователю контент ленты рекомендаций VK.com |
-| [PornTok](https://github.com/OOjeser/PornTokF) | Мобильное приложение (MAUI, C#) в стиле TikTok, которое показывает пользователю контент с rule34.xxx |
-| [WPF-WebPConverter](https://github.com/OOjeser/WPF-WebPConverter) | Приложение (WPF, C#), добавляющее пользовательский интерфейс к консольному приложению от Google, конвертирующему изображения из формата jpg или png в webp |
-| [AllGameLauncher](https://github.com/OOjeser/AllGameLauncher-2.0) | Приложение (UWP, C#), управляющее запуском игр на вашем ПК |
+| [3DMineTools](https://github.com/00jeser/3DMineTools) | Приложение (WPF, C#), которое вокселизирует 3D-модели и экспортирует их в Minecraft |
+| [LearnCard](https://github.com/00jeser/LearnCard) | Мобильное приложение (MAUI, C#), которое помогает изучать что-либо с помощью карточек |
+| [NerglishTranslator](https://github.com/00jeser/NerglishTranslator/tree/3246b4f63fcc08381cd9204727cd443b71130568) | Переводчик на язык Мурлоков из Warcraft (ASP.NET) |
+| [DnDStoryWriterHalper](https://github.com/00jeser/DnDStoryWriterHalper) | Я попытался создать приложение (WPF, C#), которое помогает писать сюжет для игры DnD. Это приложение выглядит как агрегатор разных типов заметок |
+| [VKTok](https://github.com/00jeser/VKTok) | Приложение для ПК (UWP, C#) в стиле TikTok, которое показывает пользователю контент ленты рекомендаций VK.com |
+| [PornTok](https://github.com/00jeser/PornTokF) | Мобильное приложение (MAUI, C#) в стиле TikTok, которое показывает пользователю контент с rule34.xxx |
+| [WPF-WebPConverter](https://github.com/00jeser/WPF-WebPConverter) | Приложение (WPF, C#), добавляющее пользовательский интерфейс к консольному приложению от Google, конвертирующему изображения из формата jpg или png в webp |
+| [AllGameLauncher](https://github.com/00jeser/AllGameLauncher-2.0) | Приложение (UWP, C#), управляющее запуском игр на вашем ПК |
