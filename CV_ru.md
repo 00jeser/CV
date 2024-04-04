@@ -1,4 +1,5 @@
 # Сергей Гавриленко
+## C# junior разработчик
 
 | ![моя фотография](https://sun9-70.userapi.com/impg/Si16oV0MvNY93ZXXokz6v32pJsgEbALtZIabkw/ktI0aFFdz6w.jpg?size=200x267&quality=95&sign=47fa93534137ce8bc7cb5f59c47ffeed&c_uniq_tag=zYpyc91XVVh7vN60_uzvXuoSc0hofU1kIRm7iaLEClk&type=album) | Имя: Сергей <br/> Фамилия: Гавриленко <br/> Отчество: Константинович <br/> Возраст: 20 лет <br/> Место проживания: Россия, Республика Башкортостан, Уфа <br/> Разработчик программного обеспечения |
 | --- | :--- |
